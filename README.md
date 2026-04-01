@@ -1,2 +1,7 @@
-# Project-StakingCups
-Simulación basada en Problem J de la maratón de programación internacional 2025 Stacking Cups.
+## Ciclo 4
+En esta rama se desarrolló el ciclo 4 del proyecto, incluyendo:
+- refactorización en paquetes `shapes` y `tower`
+- nuevos tipos de tazas y tapas
+- pruebas del ciclo 4
+- diagramas en Astah
+- retrospectiva del ciclo 4
